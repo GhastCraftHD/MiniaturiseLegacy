@@ -1,0 +1,7 @@
+name: MiniaturiseLegacy
+version: '${project.version}'
+main: de.leghast.de.leghast.miniaturise.Miniaturise
+api-version: '1.20'
+authors: [GhastCraftHD]
+description: The legacy version of Miniaturise
+website: https://www.github.com/LeGhast/MiniaturiseLegacy
